@@ -35,7 +35,8 @@
         "tipo": "Whey Protein", 
         "cantidad": 1, 
         "desc": "CLASICA CON AMINOACIDOS", 
-        "precio": 2600, "contenido": "1kg", 
+        "precio": 2600, 
+        "contenido": "1kg", 
         "img": "./img/img_3.jpg"
     },
     {
